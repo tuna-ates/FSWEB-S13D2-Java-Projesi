@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        //System.out.println(isPalindrome(121));
-        //System.out.println(isPerfectNumber(5));
+        System.out.println(isPalindrome(121));
+        System.out.println(isPerfectNumber(5));
         System.out.println(numberToWords(123));
     }
 
